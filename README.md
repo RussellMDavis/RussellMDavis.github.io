@@ -1,6 +1,10 @@
 ## Russell Davis 
 
-The various projects I have completed are listed below.  Each has an internal Readme to provide further information.
+The various projects I have completed are listed below.  Most were done as part of a group, but I was fully
+
+involved in every aspect of each project and am responsible for the concepts applied in each.
+
+Each has an internal Readme to provide further information.
 
 # R
 
