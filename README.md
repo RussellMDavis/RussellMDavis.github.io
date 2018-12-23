@@ -1,10 +1,7 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/RussellMDavis/RussellMDavis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -23,15 +20,23 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Statistical Analysis in R](https://github.com/RussellMDavis/Statistical-Analysis)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Small TF-IDF Analysis Project](https://github.com/RussellMDavis/Small-TF-IDF-Analysis)
 
-### Jekyll Themes
+[Small Twitter Streaming Project](https://github.com/RussellMDavis/Small-Twitter-Streaming-Project)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RussellMDavis/RussellMDavis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[MLB WAR Anomaly Detection for the Steroid Era](https://github.com/RussellMDavis/MLB-WAR-Anomaly-Detection-Python-)
 
-### Support or Contact
+[Ideas of Tableau Dashboards for Indeed.com](https://github.com/RussellMDavis/Tableau-Dashboards-for-Project-Management)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Analysis of ANN for Applied Textual Analysis](https://github.com/RussellMDavis/ANN-for-Text-Analysis)
+
+[Implementation of Local Outlier Factor Algorithm in Hadoop](https://github.com/RussellMDavis/Hadoop-Outlier-Detection)
+
+[Idea for Integrating Uncertainy Visualization to CGM](https://github.com/RussellMDavis/Diabetes-Uncertainty-Vis-Idea)
+
+[Illustration of Herd Immunity Effect in D3](https://github.com/RussellMDavis/D3-Herd-Immunity-Vis)
+
+
+
