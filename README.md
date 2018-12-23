@@ -1,4 +1,4 @@
-## Russell Davis Github Website
+## Russell Davis 
 
 The various projects I have completed are listed below.  Each has an internal Readme to provide further information.
 
